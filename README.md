@@ -22,10 +22,4 @@
 
 - TensorFlow Developer Certificate
 
-## 📈 Recent Projects
-
-- [**Foggy Image Generation using ControlNet and LoRA**](https://github.com/Abhinand-p/FoggyGen-ControlNet-LoRA)
-- [**Synthetic Fingerprint Generation**](https://github.com/Abhinand-p/Fingerprint-Generation)
-- [**Medical Language Model Development**](https://github.com/Abhinand-p/Project_Medical-INLPT-WS2023)
-
 ---
