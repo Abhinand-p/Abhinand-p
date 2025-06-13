@@ -2,7 +2,7 @@
 
 🎓 **Graduated Master's Student in Data and Computer Science** at Heidelberg University
 
-💼 **Former Research Assistant** at the Visual Computing Group, Heidelberg University
+💼 **Former Researcher ** at the Visual Computing Group, Heidelberg University
 
 💼 **Former Senior Software Engineer** at Bosch Global Software Technologies
 
